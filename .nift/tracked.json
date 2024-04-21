@@ -1,0 +1,29 @@
+{
+	"tracked": [
+		{
+			"name": "/",
+			"title": "index",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "about/",
+			"title": "about",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "contact/",
+			"title": "contact",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "index2/",
+			"title": "index2",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "join/",
+			"title": "join",
+			"template": "templates/template.html"
+		}
+	]
+}

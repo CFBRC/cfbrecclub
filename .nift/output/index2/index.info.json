@@ -1,0 +1,14 @@
+{
+	"last-built": "12:25:54 Sunday April 21 2024",
+	"name": "index2/",
+	"title": "index2",
+	"template": "templates/template.html",
+	"dependencies": [
+		"content/index2/index.html",
+		"templates/banner.html",
+		"templates/footer.html",
+		"templates/head.html",
+		"templates/header.html",
+		"templates/template.html"
+	]
+}
