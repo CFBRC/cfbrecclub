@@ -11,8 +11,23 @@
 			"template": "templates/template.html"
 		},
 		{
+			"name": "archery/",
+			"title": "archery",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "artandmusic/",
+			"title": "artandmusic",
+			"template": "templates/template.html"
+		},
+		{
 			"name": "contact/",
 			"title": "contact",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "events/",
+			"title": "events",
 			"template": "templates/template.html"
 		},
 		{

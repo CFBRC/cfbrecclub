@@ -1,10 +1,10 @@
 {
 	"last-built": "09:32:43 Saturday July 27 2024",
-	"name": "/",
-	"title": "index",
+	"name": "events/",
+	"title": "events",
 	"template": "templates/template.html",
 	"dependencies": [
-		"content/index.html",
+		"content/events/index.html",
 		"templates/banner.html",
 		"templates/footer.html",
 		"templates/head.html",
