@@ -1,10 +1,10 @@
 {
-	"last-built": "18:41:18 Saturday August 10 2024",
-	"name": "artandmusic/",
-	"title": "artandmusic",
+	"last-built": "12:24:15 Sunday August 18 2024",
+	"name": "garage-sale/",
+	"title": "garage-sale",
 	"template": "templates/template.html",
 	"dependencies": [
-		"content/artandmusic/index.html",
+		"content/garage-sale/index.html",
 		"templates/banner.html",
 		"templates/footer.html",
 		"templates/head.html",

@@ -21,6 +21,11 @@
 			"template": "templates/template.html"
 		},
 		{
+			"name": "charity-morning-tea/",
+			"title": "charity-morning-tea",
+			"template": "templates/template.html"
+		},
+		{
 			"name": "contact/",
 			"title": "contact",
 			"template": "templates/template.html"
@@ -28,6 +33,16 @@
 		{
 			"name": "events/",
 			"title": "events",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "games-night/",
+			"title": "games-night",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "garage-sale/",
+			"title": "garage-sale",
 			"template": "templates/template.html"
 		},
 		{
