@@ -21,6 +21,11 @@
 			"template": "templates/template.html"
 		},
 		{
+			"name": "artists/",
+			"title": "artists",
+			"template": "templates/template.html"
+		},
+		{
 			"name": "charity-morning-tea/",
 			"title": "charity-morning-tea",
 			"template": "templates/template.html"
@@ -53,6 +58,31 @@
 		{
 			"name": "join/",
 			"title": "join",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "music/",
+			"title": "music",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "sponsors/",
+			"title": "sponsors",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "volunteers/",
+			"title": "volunteers",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "weekend-activities/",
+			"title": "weekend-activities",
+			"template": "templates/template.html"
+		},
+		{
+			"name": "workshops/",
+			"title": "workshops",
 			"template": "templates/template.html"
 		}
 	]

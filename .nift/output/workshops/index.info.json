@@ -1,10 +1,10 @@
 {
-	"last-built": "16:49:44 Monday August 26 2024",
-	"name": "artandmusic/",
-	"title": "artandmusic",
+	"last-built": "17:56:54 Monday August 26 2024",
+	"name": "workshops/",
+	"title": "workshops",
 	"template": "templates/template.html",
 	"dependencies": [
-		"content/artandmusic/index.html",
+		"content/workshops/index.html",
 		"templates/banner.html",
 		"templates/footer.html",
 		"templates/head.html",
