@@ -1,0 +1,3 @@
+nift build-all - builds all pages
+nift build-updated - look for files that have been modified and only build those pages
+nift bcb "whatever changes on whatever page" push live
